@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResQLink</string>
+
+    <!-- SOS -->
+    <string name="sos_button_text">SOS</string>
+    <string name="sos_button_description">Press and hold to send emergency alert</string>
+    <string name="sos_sending">Sending emergency alert…</string>
+    <string name="sos_sent">Emergency alert sent</string>
+    <string name="sos_failed">Failed to send. Retrying via mesh…</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Status -->
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline — Mesh Active</string>
+    <string name="status_mesh_relaying">Relaying emergency packets</string>
+
+    <!-- Notifications -->
+    <string name="mesh_notification_title">ResQLink Active</string>
+    <string name="mesh_notification_text">Relaying emergency messages</string>
+    <string name="emergency_received_title">EMERGENCY ALERT</string>
+    <string name="channel_mesh_name">Mesh Service</string>
+    <string name="channel_mesh_description">Background mesh relay service</string>
+    <string name="channel_alert_name">Emergency Alerts</string>
+    <string name="channel_alert_description">Emergency alert notifications</string>
+
+    <!-- Contacts -->
+    <string name="add_contact">Add Emergency Contact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="no_contacts">No emergency contacts added</string>
+
+    <!-- Settings -->
+    <string name="settings_shake_detection">Shake Detection SOS</string>
+    <string name="settings_fall_detection">Fall Detection SOS</string>
+    <string name="settings_auto_sos">Automatic SOS Triggers</string>
+    <string name="settings_mesh_relay">Mesh Relay</string>
+    <string name="settings_sms_backup">SMS Backup Delivery</string>
+
+    <!-- Map -->
+    <string name="open_navigation">Open Navigation</string>
+    <string name="map_satellite">Satellite View</string>
+
+    <!-- Permissions -->
+    <string name="permission_location_rationale">Location permission is needed to share your position in emergencies</string>
+    <string name="permission_bluetooth_rationale">Bluetooth is needed for mesh networking when offline</string>
+    <string name="permission_sms_rationale">SMS permission is needed for backup message delivery</string>
+</resources>
