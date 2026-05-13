@@ -19,6 +19,16 @@ app/google-services.json
 # Keystore files
 *.jks
 *.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Secrets files
+keystore.properties
+secrets.properties
+.env
+.env.*
 
 # Logs
 *.log
