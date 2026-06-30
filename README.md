@@ -1,7 +1,7 @@
 # ResQLink
 
 An Android emergency app that sends your **SOS message + GPS location** to contacts — even with **no internet or cell signal** — by relaying through nearby phones via Bluetooth.
-cbfgfdvfvffvfdvfdvfvfdvfvfvf cvdfvfdvfdb
+cbfgfdvfvffvfdvfdvfvfdvfvfvf cvdfvfdvfdbfvfdbfdb g
 ## Status
 
 - Work in progress. Core flows are implemented, but some features and polish are still pending.
